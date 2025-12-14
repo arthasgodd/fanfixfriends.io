@@ -1,0 +1,19 @@
+body {
+    background-color: aqua;
+}
+.banner-top{
+    background-image: url('XD.jpg');
+    width: 450px;
+    height: 460px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.cossack-logo {
+    position: absolute; 
+    top: 1220px;   
+    right: 620px; 
+    width: 550px;
+    height: 300px; 
+    z-index: 100;
+}
